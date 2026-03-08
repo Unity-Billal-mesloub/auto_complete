@@ -20,4 +20,3 @@ For more examples, see script.aculo.us:
 * http://script.aculo.us/demos/ajax/autocompleter
 * http://script.aculo.us/demos/ajax/autocompleter_customized
 
-Copyright (c) 2007 David Heinemeier Hansson, released under the MIT license   
